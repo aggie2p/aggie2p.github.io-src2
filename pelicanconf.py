@@ -29,7 +29,7 @@ LINKS = (('Texas A&M University Events', 'https://calendar.tamu.edu/'),
 
 # Social widget
 SOCIAL = (('@TAMU', 'https://twitter.com/TAMU'),
-          ('Another social link', '#'),)
+          ('@AggieFootball', 'https://twitter.com/AggieFootball'),)
 
 DEFAULT_PAGINATION = 3
 
