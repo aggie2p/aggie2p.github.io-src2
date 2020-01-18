@@ -2,7 +2,7 @@ Title: About Us
 Category: test
 Date: 01/16/2020
 
-! (../images/picture2.jpg)
+![]({% static 'images/picture2.png' %})
 < Hi, my name is Case Frank.
 < I am a junior at Texas A&M University.  blah, blah blah
 
