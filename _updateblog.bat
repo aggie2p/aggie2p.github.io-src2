@@ -1,3 +1,4 @@
+pelican content
 cd output
 git add .
 git commit -m "First post."
