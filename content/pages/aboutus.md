@@ -1,8 +1,6 @@
 Title: About Us
 Category: test
 Date: 01/16/2020
-Slug: pages
-
 
 ! (/images/picture2.jpg)
 < Hi, my name is Case Frank.
