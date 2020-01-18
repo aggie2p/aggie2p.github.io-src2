@@ -1,5 +1,5 @@
 Title: About Us
-Category: test
+Category: About
 Date: 01/16/2020
 
 ! [](/images/picture2.png)
