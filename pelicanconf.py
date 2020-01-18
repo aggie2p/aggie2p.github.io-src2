@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'TCMG-316-GROUP1'
+AUTHOR = 'TCMG-316-GROUP3'
 SITENAME = 'Aggie Life'
 SITEURL = ''
 
