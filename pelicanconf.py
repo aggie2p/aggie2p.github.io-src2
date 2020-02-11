@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'TCMG-316-GROUP3'
-SITENAME = 'Aggie Life'
-SITEURL = ''
+AUTHOR = 'Group-3'
+SITENAME = 'TCMG 412-Group Three'
+SITEURL = 'https://aggie2p.github.io'
 
 PATH = 'content'
 
@@ -12,9 +12,9 @@ TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
-IGNORE_FILES = ['_*.*']
+THEME='pelican-chunk'
 
-LOAD_CONTENT_CACHE = False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -24,16 +24,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Texas A&M University Events', 'https://calendar.tamu.edu/'),
-         ('Texags', 'http://texags.com'),
-         ('Aggie Traditions', 'https://www.tamu.edu/traditions/'),
-         ('TAMU Student Life', 'https://www.tamu.edu/student-life/index.html'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),
+         ('About Class', '/pages/About.html'),
+		 ('Our Team', '/pages/team.html'),
+         ('What is Kanban', '/pages/Kanban.html'),
+         ('TAMU TCMG', 'https://eahr.tamu.edu/academics/technology-management/'),)
 
 # Social widget
-SOCIAL = (('@TAMU', 'https://twitter.com/TAMU'),
-          ('@AggieFootball', 'https://twitter.com/AggieFootball'),)
+SOCIAL = (('Facebook', 'https://www.facebook.com/tamu/'),
+          ('@TAMU', 'https://twitter.com/TAMU'),)
 
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URL = TRUE
